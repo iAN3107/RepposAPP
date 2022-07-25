@@ -1,16 +1,19 @@
-# reppos_web_view
+# REPPOS APP
 
-A new Flutter project.
+## ENGLISH
 
-## Getting Started
+App developed to open reppos website in android app.
 
-This project is a starting point for a Flutter application.
+To use it is simple, you can download the apk below and install in your Android.
 
-A few resources to get you started if this is your first Flutter project:
+> [reppos_app.zip](https://github.com/iAN3107/RepposAPP/files/9183762/reppos_app.zip)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+------------------------------------------
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## PORTUGUES
+ 
+App desenvolvido para abrir o site da reppos em um aplicativo android.
+
+Para usar, basta baixar o arquivo zip e instalar o .APK que vem dentro dele.
+
+> [reppos_app.zip](https://github.com/iAN3107/RepposAPP/files/9183762/reppos_app.zip)
